@@ -23,7 +23,4 @@ Or 1.93875 Mb. Practically, this limited by the machine's printing and scanning 
 Data can be serialized into a physical format. There are various reasons why which I will list later
 
 ## Requirments
-| Entity    | Given | When | Then |
-| --------- | ----- | ---- | ---- |
-| User      |       |      |      |
-| Paragraph |       |      |      |
+See txt
