@@ -18,3 +18,12 @@ $$
 f(DLW)=(400)^2\frac{8.25*11.75}{1\ Inch^2}=15510000
 $$
 Or 1.93875 Mb. Practically, this limited by the machine's printing and scanning capability
+
+## Problem Statement
+Data can be serialized into a physical format. There are various reasons why which I will list later
+
+## Requirments
+| Entity    | Given | When | Then |
+| --------- | ----- | ---- | ---- |
+| User      |       |      |      |
+| Paragraph |       |      |      |
