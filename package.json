@@ -1,0 +1,23 @@
+{
+  "name": "data2paper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "awesome-qr": "^2.1.4-rc.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T1Fleming/data2Paper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T1Fleming/data2Paper/issues"
+  },
+  "homepage": "https://github.com/T1Fleming/data2Paper#readme"
+}
